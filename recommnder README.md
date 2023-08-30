@@ -1,5 +1,9 @@
 # MovieLens_Recommendation_System
+
+<img width="1661" alt="Recommendations" src="https://github.com/omondiimmanuel/dsc-canvas-pdf-instructions/assets/127987316/cec7d9ba-9dc0-4ba7-b104-3ff943c59033">
+
 GROUP 9 MEMBERS:
+
 
 1. JOY KAMAU
 2. JARED BII
