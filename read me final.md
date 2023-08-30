@@ -1,6 +1,6 @@
 # MovieLens_Recommendation_System
 
-![screenshot](https://github.com/omondiimmanuel/dsc-canvas-pdf-instructions/assets/127987316/1695e37c-b38b-46d9-bd6f-e3f06d31dbdc)
+<img width="1661" alt="Recommendations" src="https://github.com/omondiimmanuel/dsc-canvas-pdf-instructions/assets/127987316/ae2f8a08-ec7d-4673-8d68-9ebc5046e824">
 
 GROUP 9 MEMBERS:
 
